@@ -1,0 +1,2 @@
+# platzycourse
+Aprendizaje efectivo
